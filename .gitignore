@@ -1,0 +1,9 @@
+modeler-merge-marker
+.mendix-cache/*
+GitDemo.mpr.lock
+*.launch
+deployment/*
+packages/*
+releases/*
+GitDemo.mpr.bak
+project-settings.user.json
