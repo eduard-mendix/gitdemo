@@ -7,3 +7,5 @@ packages/*
 releases/*
 GitDemo.mpr.bak
 project-settings.user.json
+.classpath
+.project
